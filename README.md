@@ -12,7 +12,7 @@ Ingeniero Informático con un Máster en Computación Paralela y Distribuida. Ex
 ### **TIER Mobility**  *(abr. 2022 - dic. 2023, 1 año 9 meses)*
 - Desarrollo de módulos Terraform para facilitar la creación de alertas y SLOs.
 - Participación en la migración a ArgoCD y automatización de despliegues.
-- Implementación de Karpenter para escalado dinámico de Kubernetes.
+- Implementación de KEDA para escalado basado en eventos dentro de Kubernetes.
 - Trabajo en equipo internacional con comunicación en inglés.
 
 ### **Jeffapp** *(ene. 2018 - mar. 2022, 4 años 3 meses)*
