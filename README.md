@@ -25,8 +25,7 @@ Ingeniero Informático con un Máster en Computación Paralela y Distribuida. Ex
 ### **Astellia Telecom Spain** *(oct. 2016 - ene. 2018, 1 año 4 meses)*
 - Automaticé el despliegue de la solución software el cual constaba de la creacion y configuracion de varios servidores e inslatación de sotware en un orden determinado.
 - Proyecto Fin de Grado basado en la automatización de infraestructura.
-  - [Automatización de despliegues mediante VMware, Jenkins y Robot Framework](https://www.scribd.com/document/440256105/BORJA-Automatizacion-de-despliegues-mediante-VMware-Jenkins-y-Robot-Framework) (scribd.com)
-  - [Automatización de despliegues mediante VMware, Jenkins y Robot Framework](https://riunet.upv.es/entities/publication/26fafe46-dbfc-4799-b356-c6a66e9ebbda) (upv.es)
+  - [Automatización de despliegues mediante VMware, Jenkins y Robot Framework](https://riunet.upv.es/entities/publication/26fafe46-dbfc-4799-b356-c6a66e9ebbda)
 
 ### **Sopra Steria** *(jun. 2016 - sept. 2016, 4 meses)*
 - QA Tester en un entorno de trabajo poco motivador, lo que me impulsó a buscar crecimiento en otras áreas.
